@@ -1,0 +1,76 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly stageclr, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualC, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Class stageclr.CStage: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    Initialize(String): PrivateScope, Public, HideBySig
+    SetEncoderCounts(Int32, Double): PrivateScope, Public, HideBySig
+    SetLeadScrewPitch(Int32, Double): PrivateScope, Public, HideBySig
+    SetMotorGearRatio(Int32, Double): PrivateScope, Public, HideBySig
+    SetPulleyRatio(Int32, Double): PrivateScope, Public, HideBySig
+    SetGainLimits(Int32, Double, Double, Double, Double, Double, Double): PrivateScope, Public, HideBySig
+    IsInMotion(): PrivateScope, Public, HideBySig
+    SetGain(Int32, Int32, Int32, Int32): PrivateScope, Public, HideBySig
+    SetVel(Double, Double, Double): PrivateScope, Public, HideBySig
+    SetAccel(Double, Double, Double): PrivateScope, Public, HideBySig
+    EnableAmp(): PrivateScope, Public, HideBySig
+    ResetPos(): PrivateScope, Public, HideBySig
+    MoveTo(Double, Double, Double, Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    MoveTo(Double, Double, Double): PrivateScope, Public, HideBySig
+    MoveRel(Double, Double, Double, Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    MoveRel(Double, Double, Double): PrivateScope, Public, HideBySig
+    Stop(): PrivateScope, Public, HideBySig
+    GetPos(Double&(Out), Double&(Out), Double&(Out)): PrivateScope, Public, HideBySig
+    GetPos(Double* IsImplicitlyDereferenced, Double* IsImplicitlyDereferenced, Double* IsImplicitlyDereferenced): PrivateScope, Public, HideBySig
+    GetCmdVel(Double&(Out), Double&(Out), Double&(Out)): PrivateScope, Public, HideBySig
+    GetCmdAccel(Double&(Out), Double&(Out), Double&(Out)): PrivateScope, Public, HideBySig
+    Rotate(Double): PrivateScope, Public, HideBySig
+    GetNativePtr(): PrivateScope, Public, HideBySig
+    IsCoordMotionComplete(): PrivateScope, Public, HideBySig
+    ExecuteCoordMotion(): PrivateScope, Public, HideBySig
+    ClearCoordMotion(): PrivateScope, Public, HideBySig
+    SetGroupAddress(Int32, Int32): PrivateScope, Public, HideBySig
+    StopResetMotors(): PrivateScope, Public, HideBySig
+    SetPathStatus(): PrivateScope, Public, HideBySig
+    SetPathFreq(Int32): PrivateScope, Public, HideBySig
+    SetNumberOfPoints(Int32): PrivateScope, Public, HideBySig
+    SetScale(): PrivateScope, Public, HideBySig
+    SetScale(Double, Double, Double): PrivateScope, Public, HideBySig
+    SetPathAcceleration(Double): PrivateScope, Public, HideBySig
+    SetTangentTolerance(Double): PrivateScope, Public, HideBySig
+    ClearSegList(Double, Double, Double): PrivateScope, Public, HideBySig
+    AddStart(Double, Double, Double): PrivateScope, Public, HideBySig
+    AddLineSeg(Double, Double, Double): PrivateScope, Public, HideBySig
+    AddArcSeg(Double, Double, Double, Double, Double, Double, Double, Double, Double): PrivateScope, Public, HideBySig
+    AddSplineSeg(vector<double\,std::allocator<double> >*, Int32, enSplineType): PrivateScope, Public, HideBySig
+    SetFeedrate(Double): PrivateScope, Public, HideBySig
+    SetOrigin(Double, Double, Double): PrivateScope, Public, HideBySig
+    SetPathParams(Int32, Int32, Int32, Int32, Int32, Int32, Int32, Single, Single, Single, Single): PrivateScope, Public, HideBySig
+    SetPathParams(): PrivateScope, Public, HideBySig
+    OpenInFile(String): PrivateScope, Public, HideBySig
+    CloseInFile(): PrivateScope, Public, HideBySig
+    OpenOutFile(String): PrivateScope, Public, HideBySig
+    CloseOutFile(): PrivateScope, Public, HideBySig
+    OpenPointsOut(String): PrivateScope, Public, HideBySig
+    ClosePointsOut(): PrivateScope, Public, HideBySig
+    ReadInFile(): PrivateScope, Public, HideBySig
+    ReadInFileSimulation(): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Struct Stage: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType

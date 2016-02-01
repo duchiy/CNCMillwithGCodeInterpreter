@@ -1,0 +1,30 @@
+C:\Test\Joystick\bin\Debug\MoyStick.dll
+C:\Test\Joystick\bin\Debug\MoyStick.pdb
+C:\Test\Joystick\obj\Debug\ResolveAssemblyReference.cache
+C:\Test\Joystick\obj\Debug\MoyStick.UserControl1.resources
+C:\Test\Joystick\obj\Debug\MoyStick.csproj.GenerateResource.Cache
+C:\Test\Joystick\obj\Debug\MoyStick.dll
+C:\Test\Joystick\obj\Debug\MoyStick.pdb
+C:\Test\JoystickDemo\Joystick\bin\Debug\MoyStick.dll
+C:\Test\JoystickDemo\Joystick\bin\Debug\MoyStick.pdb
+C:\Test\JoystickDemo\Joystick\obj\Debug\ResolveAssemblyReference.cache
+C:\Test\JoystickDemo\Joystick\obj\Debug\MoyStick.UserControl1.resources
+C:\Test\JoystickDemo\Joystick\obj\Debug\MoyStick.csproj.GenerateResource.Cache
+C:\Test\JoystickDemo\Joystick\obj\Debug\MoyStick.dll
+C:\Test\JoystickDemo\Joystick\obj\Debug\MoyStick.pdb
+C:\Program Files\Mill1\Joystick\bin\Debug\MoyStick.dll
+C:\Program Files\Mill1\Joystick\bin\Debug\MoyStick.pdb
+C:\Program Files\Mill1A\_Output\Debug\MoyStick.dll
+C:\Program Files\Mill1A\_Output\Debug\MoyStick.pdb
+C:\Program Files\Mill1A\Joystick\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\Mill1A\Joystick\obj\Debug\MoyStick.UserControl1.resources
+C:\Program Files\Mill1A\Joystick\obj\Debug\ResGen.read.1.tlog
+C:\Program Files\Mill1A\Joystick\obj\Debug\ResGen.write.1.tlog
+C:\Program Files\Mill1A\Joystick\obj\Debug\MoyStick.dll
+C:\Program Files\Mill1A\Joystick\obj\Debug\MoyStick.pdb
+C:\Program Files (x86)\Mill1A\_Output\Debug\MoyStick.dll
+C:\Program Files (x86)\Mill1A\_Output\Debug\MoyStick.pdb
+C:\Program Files (x86)\Mill1A\Joystick\obj\Debug\MoyStick.UserControl1.resources
+C:\Program Files (x86)\Mill1A\Joystick\obj\Debug\MoyStick.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Mill1A\Joystick\obj\Debug\MoyStick.dll
+C:\Program Files (x86)\Mill1A\Joystick\obj\Debug\MoyStick.pdb

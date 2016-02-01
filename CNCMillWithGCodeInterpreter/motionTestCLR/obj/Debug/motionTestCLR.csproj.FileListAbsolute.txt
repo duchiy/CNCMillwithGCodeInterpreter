@@ -1,0 +1,16 @@
+C:\Program Files\Mill1A\motionTestCLR\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\Mill1A\motionTestCLR\obj\Debug\stageclr.Form1.resources
+C:\Program Files\Mill1A\motionTestCLR\obj\Debug\motionTestCLR.FormPathSettings.resources
+C:\Program Files\Mill1A\motionTestCLR\obj\Debug\motionTestCLR.Properties.Resources.resources
+C:\Program Files\Mill1A\motionTestCLR\obj\Debug\GenerateResource.read.1.tlog
+C:\Program Files\Mill1A\motionTestCLR\obj\Debug\GenerateResource.write.1.tlog
+C:\Program Files (x86)\Mill1A\_Output\Debug\Win32\motionTestCLR.exe.config
+C:\Program Files (x86)\Mill1A\_Output\Debug\Win32\motionTestCLR.exe
+C:\Program Files (x86)\Mill1A\_Output\Debug\Win32\motionTestCLR.pdb
+C:\Program Files (x86)\Mill1A\motionTestCLR\obj\Debug\motionTestCLR.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Mill1A\motionTestCLR\obj\Debug\stageclr.Form1.resources
+C:\Program Files (x86)\Mill1A\motionTestCLR\obj\Debug\motionTestCLR.FormPathSettings.resources
+C:\Program Files (x86)\Mill1A\motionTestCLR\obj\Debug\motionTestCLR.Properties.Resources.resources
+C:\Program Files (x86)\Mill1A\motionTestCLR\obj\Debug\motionTestCLR.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Mill1A\motionTestCLR\obj\Debug\motionTestCLR.exe
+C:\Program Files (x86)\Mill1A\motionTestCLR\obj\Debug\motionTestCLR.pdb

@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Mill1A\PathStageTest\bin\Debug\PathStageTest.exe
+C:\Program Files (x86)\Mill1A\PathStageTest\bin\Debug\PathStageTest.pdb
+C:\Program Files (x86)\Mill1A\_Output\Debug\PathStageTest.exe
+C:\Program Files (x86)\Mill1A\_Output\Debug\PathStageTest.pdb
+C:\Program Files (x86)\Mill1A\_Output\Debug\Win32\PathStageTest.exe
+C:\Program Files (x86)\Mill1A\_Output\Debug\Win32\PathStageTest.pdb
+C:\Program Files (x86)\Mill1A\PathStageTest\obj\x86\Debug\PathStageTest.exe
+C:\Program Files (x86)\Mill1A\PathStageTest\obj\x86\Debug\PathStageTest.pdb
+C:\Program Files (x86)\Mill1A\PathStageTest\obj\x86\Debug\MillCmdCtrl.csprojResolveAssemblyReference.cache

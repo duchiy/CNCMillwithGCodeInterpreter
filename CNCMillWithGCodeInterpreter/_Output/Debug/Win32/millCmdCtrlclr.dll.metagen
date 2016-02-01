@@ -1,0 +1,34 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly millCmdCtrlclr, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly motionTestCLR, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly pathclr, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly stageclr, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualC, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Class millCmdCtrlclr.CmillCmdCtrl: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    ProcessGCode(String): PrivateScope, Public, HideBySig
+    RunGCode(): PrivateScope, Public, HideBySig
+    RunCommand(Int32): PrivateScope, Public, HideBySig
+    InitRun(): PrivateScope, Public, HideBySig
+    Iter(): PrivateScope, Public, HideBySig
+    GetCommand(): PrivateScope, Public, HideBySig
+    Count(): PrivateScope, Public, HideBySig
+    GetStart(Double&(Out), Double&(Out), Double&(Out)): PrivateScope, Public, HideBySig
+    GetEnd(Double&(Out), Double&(Out), Double&(Out)): PrivateScope, Public, HideBySig
+    GetCenter(Double&(Out), Double&(Out), Double&(Out)): PrivateScope, Public, HideBySig
